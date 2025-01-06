@@ -1,3 +1,5 @@
+The first author of this article is Jinrui Xing
+
 # Video Point Cloud Compression - VPCC - mpeg-pcc-tmc2 test model candidate software
 
 ## Building
